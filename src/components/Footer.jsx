@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className="max-w-[1240px] mx-auto py-16 grid lg:grid-cols-3 gap-8 text-gray-300">
+    <div className="max-w-[1240px] mx-auto py-16 grid lg:grid-cols-3 gap-8 text-gray-300" id="footer" >
       <div>
         <h1 className="w-full  text-3xl font-bold text-[#00df9a] cursor-pointer">
           V C E .
